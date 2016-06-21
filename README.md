@@ -25,5 +25,7 @@ Then the shell can be started with `out/Debug/headless_shell https://www.google.
 
 Then navigate to http://127.0.0.1:9222 with your browser.
 
+# References
 
+- https://github.com/elgalu/docker-selenium
 
